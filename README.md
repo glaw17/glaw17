@@ -11,14 +11,14 @@ Python; JavaScript; HTML; CSS; SQL.
 
 
 ## Learning About 🌱
-Estou Aprendendo e Aprofundando sobre:
-Modelagem de Banco de Dados
-Algoritmos e Pensamentos Computacionais (Com linguagem C)
-Desenvolvimento de Front-End
-Python
-JavaScript
-Html
-CSS
+Estou Aprendendo e Aprofundando sobre:<br>
+Modelagem de Banco de Dados<br>
+Algoritmos e Pensamentos Computacionais (Com linguagem C)<br>
+Desenvolvimento de Front-End<br>
+Python<br>
+JavaScript<br>
+Html<br>
+CSS<br>
 SQL
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/glawber-firmino-778886427)
