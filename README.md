@@ -22,5 +22,5 @@ CSS;<br>
 SQL
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/glawber-firmino-778886427)<br>
-[Instagram](www.instagram.com/glawber_f)
-
+[Instagram](www.instagram.com/glawber_f)<br><br>
+<strong>EMAIL:</strong> glawberf09@gmail.com
