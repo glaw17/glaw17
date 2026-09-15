@@ -3,7 +3,7 @@
 
 Sou estudante de Ciências da Computação - 1º Período 🎓<br>
 Estou iniciando agora na área, e possuo aptidão na área de
-: Back-End, Front-End e Dados.
+: Back-End, Front-End e Dados. Estou em fase de desenvolvimento para me tornar um ótimo profissional.
 
 ## 🛠 Skills
 Possuo conhecimentos básicos nas ferramentas:<br>
