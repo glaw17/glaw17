@@ -6,7 +6,7 @@ Estou iniciando agora na área, e possuo aptidão na área de
 : Back-End, Front-End e Dados.
 
 ## 🛠 Skills
-Possuo conhecimentos básicos nas ferramentas:
+Possuo conhecimentos básicos nas ferramentas:<br>
 Python;<br> JavaScript;<br> HTML;<br> CSS;<br> SQL.
 
 
