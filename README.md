@@ -17,6 +17,7 @@ Algoritmos e Pensamentos Computacionais (Com linguagem C);<br>
 Desenvolvimento de Front-End;<br>
 Python;<br>
 JavaScript;<br>
+C;<br>
 Html;<br>
 CSS;<br>
 SQL
